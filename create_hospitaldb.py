@@ -3,13 +3,18 @@ import django
 import random
 from faker import Faker
 
+#define setup from django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')
 django.setup()
 
+#import models to fill data
 from hospital.models import Patients,Province
 
+#create a function
 def populate(n=1000):
+    #create an object
     fake = Faker()
+    #fill every attribute
     for _ in range(n):
         first_name = fake.first_name()
         last_name = fake.last_name()
@@ -29,7 +34,7 @@ def populate(n=1000):
         weight = random.randint(30, 200)
         height = random.randint(10, 200)
 
-        
+        #add to database
         Patients.objects.create(
             first_name=first_name,
             last_name=last_name,

@@ -37,4 +37,3 @@ for item in sorted_items:
     print(item[0])
     print(item[1]['price'])
     print(item[1]['link'])
-    print('--------------------------------------------')
