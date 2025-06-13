@@ -7,4 +7,10 @@ url = f"https://es.indeed.com/jobs?q={key_search}&l=&fromage=7&from=searchOnDesk
 page = requests.get(url).text
 doc  = BeautifulSoup(page, "html.parser")
 
+page_text = doc.title.string
+print(page_text)
+pages = int(page_text.split('/')[1])
+
+
 print(page)
+print(pages)
