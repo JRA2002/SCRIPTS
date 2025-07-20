@@ -1,0 +1,171 @@
+user_id,age,gender,region,content_title,content_category,content_origin,content_genre,device_type,device_os,subscription_type,signup_date,cancellation_date,viewing_time_minutes
+1031,35,M,Trujillo,Narcos,Serie,USA,Crime,Smartphone,iOS,Standard,2025-01-21,2025-03-16,319
+1032,33,M,Lima,Narcos,Serie,USA,Crime,Laptop,Windows,Standard,2025-02-24,2025-04-06,411
+1033,36,M,Trujillo,BoJack Horseman,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-02-20,2025-03-12,326
+1034,31,M,Trujillo,Narcos,Serie,USA,Crime,Laptop,MacOS,Free Trial,2025-02-02,2025-03-31,260
+1035,39,F,Arequipa,Superbad,Película,USA,Comedy,Smartphone,Android,Free Trial,2025-01-17,2025-02-01,110
+1036,23,F,Trujillo,The Crown,Serie,UK,Drama,Laptop,Windows,Premium,2025-02-11,2025-04-06,193
+1037,35,M,Lima,The Office,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-02-17,2025-03-22,500
+1038,31,M,Piura,Inca Gold,Documental,Peru,History,Laptop,MacOS,Free Trial,2025-03-11,2025-04-20,186
+1039,30,M,Piura,La Casa de Papel,Serie,Spain,Drama,Smartphone,Android,Premium,2025-01-04,2025-02-21,364
+1040,26,M,Arequipa,Squid Game,Serie,South Korea,Thriller,TV,Smart TV,Free Trial,2025-02-07,,123
+1041,40,M,Cusco,La Casa de Papel,Serie,Spain,Drama,TV,Smart TV,Free Trial,2025-01-04,,488
+1042,25,F,Piura,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Free Trial,2025-02-28,2025-04-02,412
+1043,22,F,Trujillo,Superbad,Película,USA,Comedy,Laptop,MacOS,Free Trial,2025-01-23,,552
+1044,27,F,Cusco,Narcos,Serie,USA,Crime,Laptop,Windows,Standard,2025-03-26,2025-05-19,90
+1045,31,M,Arequipa,The Crown,Serie,UK,Drama,Laptop,MacOS,Free Trial,2025-02-25,2025-04-17,83
+1046,30,F,Arequipa,BoJack Horseman,Serie,USA,Comedy,Smartphone,Android,Premium,2025-01-27,2025-02-22,91
+1047,21,F,Cusco,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Standard,2025-03-23,,360
+1048,37,F,Arequipa,Squid Game,Serie,South Korea,Thriller,Smartphone,Android,Free Trial,2025-01-14,2025-02-10,137
+1049,29,F,Lima,The Crown,Serie,UK,Drama,TV,Smart TV,Free Trial,2025-03-13,,224
+1050,28,F,Lima,Narcos,Serie,USA,Crime,TV,Smart TV,Free Trial,2025-01-09,2025-02-24,439
+1051,37,M,Lima,Superbad,Película,USA,Comedy,Smartphone,iOS,Premium,2025-01-02,,431
+1052,21,F,Lima,Inca Gold,Documental,Peru,History,Laptop,MacOS,Free Trial,2025-02-26,2025-03-24,316
+1053,33,F,Lima,La Casa de Papel,Serie,Spain,Drama,Smartphone,iOS,Free Trial,2025-01-19,,315
+1054,29,M,Arequipa,The Office,Serie,USA,Comedy,Laptop,Windows,Premium,2025-02-17,,342
+1055,33,F,Cusco,Narcos,Serie,USA,Crime,TV,Smart TV,Free Trial,2025-02-09,2025-04-01,89
+1056,23,M,Cusco,Superbad,Película,USA,Comedy,Smartphone,Android,Free Trial,2025-01-01,,512
+1057,40,M,Cusco,Superbad,Película,USA,Comedy,Laptop,Windows,Free Trial,2025-02-28,,197
+1058,18,F,Cusco,Superbad,Película,USA,Comedy,Laptop,MacOS,Free Trial,2025-01-22,2025-02-14,77
+1059,40,F,Lima,Friends,Serie,USA,Comedy,Laptop,MacOS,Standard,2025-02-16,2025-04-07,482
+1060,30,F,Arequipa,Squid Game,Serie,South Korea,Thriller,Smartphone,iOS,Standard,2025-02-19,2025-03-20,139
+1061,36,M,Lima,Friends,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-02-23,2025-03-18,204
+1062,35,M,Piura,Inca Gold,Documental,Peru,History,TV,Smart TV,Free Trial,2025-02-23,,110
+1063,40,F,Cusco,Superbad,Película,USA,Comedy,TV,Smart TV,Free Trial,2025-02-05,2025-03-25,96
+1064,31,F,Lima,The Office,Serie,USA,Comedy,Smartphone,iOS,Premium,2025-01-20,2025-03-06,465
+1065,31,M,Arequipa,Superbad,Película,USA,Comedy,Smartphone,iOS,Free Trial,2025-03-10,2025-04-21,79
+1066,23,M,Trujillo,Stranger Things,Serie,USA,Drama,Smartphone,iOS,Free Trial,2025-02-18,2025-03-17,478
+1067,34,M,Trujillo,Superbad,Película,USA,Comedy,TV,Smart TV,Free Trial,2025-03-18,2025-04-21,315
+1068,21,F,Cusco,Friends,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-02-03,,462
+1069,26,F,Cusco,Narcos,Serie,USA,Crime,Smartphone,Android,Free Trial,2025-03-08,2025-04-08,109
+1070,19,M,Arequipa,La Casa de Papel,Serie,Spain,Drama,Laptop,MacOS,Premium,2025-03-27,2025-04-14,141
+1071,19,F,Lima,Stranger Things,Serie,USA,Drama,Laptop,Windows,Free Trial,2025-02-19,2025-04-05,191
+1072,27,F,Lima,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-01-06,2025-02-08,127
+1073,33,M,Trujillo,Friends,Serie,USA,Comedy,TV,Smart TV,Standard,2025-02-27,2025-03-27,222
+1074,20,F,Lima,BoJack Horseman,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-01-23,,468
+1075,40,M,Cusco,BoJack Horseman,Serie,USA,Comedy,Smartphone,iOS,Free Trial,2025-02-18,,130
+1076,34,F,Lima,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Premium,2025-03-17,,443
+1077,34,F,Lima,La Casa de Papel,Serie,Spain,Drama,Laptop,MacOS,Free Trial,2025-03-26,2025-04-29,413
+1078,32,F,Lima,Superbad,Película,USA,Comedy,Laptop,MacOS,Standard,2025-02-01,,270
+1079,28,F,Trujillo,The Office,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-01-18,,269
+1080,34,F,Arequipa,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Free Trial,2025-03-23,2025-05-20,140
+1081,27,F,Lima,Narcos,Serie,USA,Crime,Laptop,MacOS,Premium,2025-03-14,2025-04-29,175
+1082,20,F,Lima,Inca Gold,Documental,Peru,History,TV,Smart TV,Free Trial,2025-01-10,2025-02-07,375
+1083,21,F,Cusco,Superbad,Película,USA,Comedy,Smartphone,Android,Free Trial,2025-01-21,,483
+1084,23,F,Piura,Narcos,Serie,USA,Crime,Smartphone,iOS,Free Trial,2025-02-18,,337
+1085,34,M,Piura,The Office,Serie,USA,Comedy,TV,Smart TV,Standard,2025-01-02,,343
+1086,27,F,Piura,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Free Trial,2025-02-01,,215
+1087,33,F,Piura,Squid Game,Serie,South Korea,Thriller,TV,Smart TV,Standard,2025-02-12,,123
+1088,39,F,Arequipa,Inca Gold,Documental,Peru,History,Laptop,Windows,Premium,2025-02-11,,443
+1089,22,F,Arequipa,BoJack Horseman,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-03-28,,435
+1090,35,M,Lima,The Crown,Serie,UK,Drama,Laptop,MacOS,Free Trial,2025-02-03,2025-03-04,239
+1091,31,M,Lima,The Office,Serie,USA,Comedy,Smartphone,iOS,Free Trial,2025-02-02,2025-03-15,238
+1092,39,F,Lima,Inca Gold,Documental,Peru,History,Laptop,Windows,Free Trial,2025-03-09,2025-04-21,164
+1093,24,F,Trujillo,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Standard,2025-01-10,2025-02-22,183
+1094,24,F,Lima,Friends,Serie,USA,Comedy,TV,Smart TV,Standard,2025-03-03,,447
+1095,27,M,Trujillo,Inca Gold,Documental,Peru,History,Smartphone,Android,Free Trial,2025-01-17,2025-02-11,324
+1096,31,F,Trujillo,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Premium,2025-03-23,,452
+1097,37,M,Lima,Superbad,Película,USA,Comedy,Laptop,MacOS,Free Trial,2025-03-12,,252
+1098,21,M,Lima,The Crown,Serie,UK,Drama,Smartphone,Android,Free Trial,2025-01-08,,457
+1099,39,F,Cusco,Stranger Things,Serie,USA,Drama,Laptop,Windows,Free Trial,2025-02-21,2025-03-23,64
+1100,21,M,Puno,Narcos,Serie,USA,Crime,Smartphone,Android,Free Trial,2025-03-01,2025-04-20,58
+1101,18,F,Piura,The Crown,Serie,UK,Drama,Smartphone,Android,Standard,2025-01-12,2025-03-07,118
+1102,26,F,Trujillo,Stranger Things,Serie,USA,Drama,Smartphone,iOS,Free Trial,2025-03-07,2025-05-02,249
+1103,23,F,Piura,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Premium,2025-01-15,2025-02-12,258
+1104,22,M,Lima,The Crown,Serie,UK,Drama,Laptop,MacOS,Free Trial,2025-01-03,2025-01-18,152
+1105,19,M,Cusco,Stranger Things,Serie,USA,Drama,Laptop,MacOS,Standard,2025-03-06,2025-04-05,70
+1106,39,F,Piura,Inca Gold,Documental,Peru,History,Laptop,MacOS,Free Trial,2025-03-28,2025-04-19,231
+1107,19,M,Arequipa,Stranger Things,Serie,USA,Drama,Laptop,MacOS,Free Trial,2025-01-27,2025-02-18,61
+1108,28,F,Trujillo,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Free Trial,2025-01-21,,187
+1109,39,F,Lima,Narcos,Serie,USA,Crime,Smartphone,iOS,Premium,2025-02-09,2025-02-24,224
+1110,20,F,Cusco,The Office,Serie,USA,Comedy,Laptop,Windows,Free Trial,2025-02-11,,469
+1111,36,M,Lima,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-01-15,2025-02-28,299
+1112,19,F,Lima,Friends,Serie,USA,Comedy,Smartphone,iOS,Premium,2025-02-12,,502
+1113,33,M,Lima,The Crown,Serie,UK,Drama,Smartphone,iOS,Free Trial,2025-02-25,2025-03-18,140
+1114,20,F,Lima,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Free Trial,2025-01-10,2025-02-24,220
+1115,32,M,Puno,BoJack Horseman,Serie,USA,Comedy,TV,Smart TV,Standard,2025-03-20,,166
+1116,28,M,Lima,BoJack Horseman,Serie,USA,Comedy,Smartphone,Android,Premium,2025-02-16,,421
+1117,31,F,Lima,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Free Trial,2025-02-26,2025-03-22,388
+1118,20,F,Piura,Inca Gold,Documental,Peru,History,Laptop,Windows,Free Trial,2025-02-09,2025-03-05,476
+1119,24,M,Lima,Superbad,Película,USA,Comedy,Laptop,MacOS,Premium,2025-03-28,,455
+1120,34,M,Puno,The Crown,Serie,UK,Drama,Smartphone,iOS,Premium,2025-01-05,2025-02-23,108
+1121,28,F,Trujillo,Narcos,Serie,USA,Crime,Smartphone,iOS,Free Trial,2025-02-06,2025-03-09,175
+1122,31,M,Lima,The Office,Serie,USA,Comedy,Smartphone,iOS,Free Trial,2025-03-05,2025-03-28,369
+1123,37,M,Arequipa,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Standard,2025-01-18,,326
+1124,34,M,Arequipa,BoJack Horseman,Serie,USA,Comedy,Smartphone,iOS,Free Trial,2025-02-17,2025-04-09,59
+1125,23,F,Lima,The Office,Serie,USA,Comedy,Smartphone,Android,Premium,2025-03-15,,554
+1126,39,F,Lima,Inca Gold,Documental,Peru,History,Laptop,Windows,Free Trial,2025-01-22,,158
+1127,36,F,Puno,Superbad,Película,USA,Comedy,Smartphone,iOS,Premium,2025-03-21,,495
+1128,36,M,Lima,La Casa de Papel,Serie,Spain,Drama,Smartphone,Android,Standard,2025-01-10,2025-02-02,364
+1129,19,F,Lima,Superbad,Película,USA,Comedy,Smartphone,Android,Standard,2025-03-22,,592
+1130,38,F,Lima,Inca Gold,Documental,Peru,History,Smartphone,iOS,Free Trial,2025-02-26,,249
+1131,25,M,Arequipa,The Office,Serie,USA,Comedy,Smartphone,Android,Premium,2025-02-04,,452
+1132,23,F,Puno,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Premium,2025-02-01,2025-02-20,81
+1133,21,F,Lima,The Crown,Serie,UK,Drama,Smartphone,iOS,Free Trial,2025-02-22,,485
+1134,19,M,Arequipa,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Standard,2025-03-15,,565
+1135,30,F,Cusco,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Free Trial,2025-01-01,2025-02-04,127
+1136,32,F,Piura,Squid Game,Serie,South Korea,Thriller,Smartphone,iOS,Free Trial,2025-01-12,,490
+1137,29,F,Cusco,The Crown,Serie,UK,Drama,Smartphone,Android,Standard,2025-01-17,2025-02-14,76
+1138,18,F,Arequipa,La Casa de Papel,Serie,Spain,Drama,Smartphone,iOS,Free Trial,2025-02-28,2025-03-15,124
+1139,18,M,Cusco,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-02-07,,423
+1140,28,M,Lima,La Casa de Papel,Serie,Spain,Drama,Smartphone,Android,Premium,2025-03-24,,360
+1141,18,M,Puno,BoJack Horseman,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-01-14,2025-01-30,51
+1142,31,M,Puno,Squid Game,Serie,South Korea,Thriller,Laptop,Windows,Free Trial,2025-02-22,2025-03-12,114
+1143,25,M,Lima,BoJack Horseman,Serie,USA,Comedy,Laptop,Windows,Free Trial,2025-01-20,,556
+1144,28,M,Lima,BoJack Horseman,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-03-19,2025-05-14,419
+1145,22,M,Lima,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Free Trial,2025-02-10,2025-04-04,173
+1146,39,F,Lima,The Crown,Serie,UK,Drama,Laptop,MacOS,Free Trial,2025-03-20,2025-04-20,448
+1147,26,M,Trujillo,The Office,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-02-06,2025-03-13,362
+1148,23,F,Cusco,BoJack Horseman,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-01-11,,468
+1149,26,M,Cusco,Inca Gold,Documental,Peru,History,Smartphone,iOS,Free Trial,2025-01-04,2025-02-08,136
+1150,21,F,Lima,The Crown,Serie,UK,Drama,Laptop,Windows,Free Trial,2025-02-05,2025-02-23,473
+1151,28,F,Cusco,Inca Gold,Documental,Peru,History,Smartphone,iOS,Standard,2025-03-27,2025-05-08,114
+1152,36,M,Lima,The Crown,Serie,UK,Drama,Laptop,MacOS,Standard,2025-03-06,2025-04-23,228
+1153,20,M,Trujillo,Superbad,Película,USA,Comedy,Laptop,Windows,Free Trial,2025-03-22,,563
+1154,38,M,Lima,The Crown,Serie,UK,Drama,TV,Smart TV,Free Trial,2025-01-09,,309
+1155,38,M,Trujillo,BoJack Horseman,Serie,USA,Comedy,Smartphone,Android,Standard,2025-02-23,2025-04-19,136
+1156,23,M,Cusco,The Office,Serie,USA,Comedy,Smartphone,iOS,Free Trial,2025-03-24,,500
+1157,23,F,Arequipa,Narcos,Serie,USA,Crime,Laptop,MacOS,Free Trial,2025-03-20,2025-05-03,118
+1158,18,M,Cusco,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Free Trial,2025-03-04,,242
+1159,34,F,Trujillo,Inca Gold,Documental,Peru,History,Smartphone,Android,Free Trial,2025-03-23,2025-05-08,170
+1160,32,F,Trujillo,The Office,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-03-22,2025-05-17,318
+1161,38,F,Lima,The Crown,Serie,UK,Drama,Laptop,Windows,Standard,2025-01-18,2025-02-05,186
+1162,34,M,Lima,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Premium,2025-02-04,2025-03-13,485
+1163,27,M,Trujillo,BoJack Horseman,Serie,USA,Comedy,Laptop,MacOS,Standard,2025-03-10,2025-03-29,226
+1164,21,F,Lima,Inca Gold,Documental,Peru,History,TV,Smart TV,Standard,2025-01-11,,253
+1165,39,F,Trujillo,Superbad,Película,USA,Comedy,TV,Smart TV,Premium,2025-03-05,2025-04-28,198
+1166,26,M,Lima,Friends,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-01-08,,278
+1167,33,F,Lima,La Casa de Papel,Serie,Spain,Drama,Smartphone,iOS,Standard,2025-02-09,2025-03-26,236
+1168,27,F,Piura,The Crown,Serie,UK,Drama,Laptop,MacOS,Free Trial,2025-01-07,2025-02-27,365
+1169,24,F,Piura,The Crown,Serie,UK,Drama,Laptop,Windows,Free Trial,2025-02-03,2025-03-17,374
+1170,27,F,Trujillo,Superbad,Película,USA,Comedy,Smartphone,Android,Free Trial,2025-03-10,2025-04-16,163
+1171,27,M,Cusco,Narcos,Serie,USA,Crime,Laptop,MacOS,Standard,2025-03-24,,121
+1172,32,F,Lima,Friends,Serie,USA,Comedy,Smartphone,Android,Standard,2025-02-12,2025-03-31,100
+1173,39,F,Cusco,La Casa de Papel,Serie,Spain,Drama,Laptop,MacOS,Premium,2025-01-18,,170
+1174,32,M,Cusco,Friends,Serie,USA,Comedy,Smartphone,Android,Free Trial,2025-02-19,2025-03-23,61
+1175,24,F,Puno,The Office,Serie,USA,Comedy,Laptop,Windows,Free Trial,2025-03-13,,449
+1176,21,F,Cusco,Narcos,Serie,USA,Crime,Laptop,Windows,Free Trial,2025-03-14,2025-04-10,77
+1177,29,M,Puno,The Crown,Serie,UK,Drama,Smartphone,Android,Free Trial,2025-02-11,2025-04-11,146
+1178,19,F,Lima,Friends,Serie,USA,Comedy,TV,Smart TV,Free Trial,2025-01-13,,529
+1179,24,F,Trujillo,Superbad,Película,USA,Comedy,Smartphone,iOS,Free Trial,2025-02-18,,524
+1180,34,F,Cusco,Squid Game,Serie,South Korea,Thriller,Smartphone,Android,Free Trial,2025-02-23,2025-03-22,130
+1181,37,F,Cusco,The Crown,Serie,UK,Drama,TV,Smart TV,Standard,2025-01-16,2025-03-15,76
+1182,37,F,Cusco,The Crown,Serie,UK,Drama,Smartphone,iOS,Standard,2025-02-19,2025-03-15,79
+1183,20,M,Lima,Inca Gold,Documental,Peru,History,Laptop,Windows,Free Trial,2025-01-06,,326
+1184,18,M,Trujillo,The Crown,Serie,UK,Drama,Laptop,MacOS,Standard,2025-01-09,,495
+1185,27,M,Lima,La Casa de Papel,Serie,Spain,Drama,Laptop,Windows,Free Trial,2025-02-01,,316
+1186,40,M,Arequipa,Squid Game,Serie,South Korea,Thriller,Smartphone,Android,Free Trial,2025-02-07,,238
+1187,29,F,Lima,Narcos,Serie,USA,Crime,Smartphone,iOS,Free Trial,2025-03-26,2025-04-24,191
+1188,23,F,Trujillo,La Casa de Papel,Serie,Spain,Drama,Smartphone,Android,Premium,2025-02-05,2025-04-03,405
+1189,22,F,Trujillo,Friends,Serie,USA,Comedy,Laptop,Windows,Standard,2025-03-06,2025-04-18,528
+1190,31,M,Arequipa,Friends,Serie,USA,Comedy,Laptop,MacOS,Free Trial,2025-03-23,2025-05-12,101
+1191,21,F,Cusco,Stranger Things,Serie,USA,Drama,Smartphone,iOS,Free Trial,2025-02-27,,310
+1192,23,M,Lima,The Crown,Serie,UK,Drama,Smartphone,Android,Free Trial,2025-03-21,,427
+1193,25,F,Lima,The Crown,Serie,UK,Drama,Smartphone,iOS,Free Trial,2025-03-08,,286
+1194,30,M,Trujillo,Inca Gold,Documental,Peru,History,Laptop,MacOS,Free Trial,2025-01-13,,477
+1195,19,F,Arequipa,Stranger Things,Serie,USA,Drama,TV,Smart TV,Standard,2025-03-12,2025-05-02,145
+1196,29,M,Lima,Stranger Things,Serie,USA,Drama,TV,Smart TV,Free Trial,2025-01-18,2025-03-09,334
+1197,24,F,Arequipa,Narcos,Serie,USA,Crime,Laptop,MacOS,Standard,2025-02-20,2025-03-31,60
+1198,36,F,Lima,Inca Gold,Documental,Peru,History,Smartphone,Android,Free Trial,2025-02-07,2025-03-10,440
+1199,20,M,Trujillo,Stranger Things,Serie,USA,Drama,Laptop,MacOS,Standard,2025-03-10,,244
+1200,28,F,Lima,Squid Game,Serie,South Korea,Thriller,Laptop,MacOS,Standard,2025-02-16,2025-04-09,408
