@@ -2,7 +2,7 @@ import pandas as pd
 import random
 from datetime import datetime, timedelta
 
-regions = ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Piura', 'Puno', 'Tacna']
+regions = ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Piura', 'Puno', 'Tacna', 'Ica']
 contents = [
     ('Stranger Things', 'Serie', 'USA', 'Drama'), ('The Office', 'Serie', 'USA', 'Comedy'),
     ('La Casa de Papel', 'Serie', 'Spain', 'Drama'), ('Narcos', 'Serie', 'USA', 'Crime'),
