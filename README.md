@@ -52,5 +52,3 @@ Desarrollado por [Javier Rojas]
 📫 Contacto: javier_2790@outlook.com.com
 
 ⭐ ¡Gracias por visitar! Si te sirven estos scripts, considera darle una estrella al repo 😊
-
-

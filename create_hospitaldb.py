@@ -8,7 +8,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')
 django.setup()
 
 #import models to fill data
-from hospital.models import Patients,Province
+from hospital.models import Patients, Province
 
 #create a function
 def populate(n=1000):
